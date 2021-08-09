@@ -1,0 +1,1 @@
+Tính số lần xuất hiện của 1 từ trong các file
